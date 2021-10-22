@@ -10,7 +10,7 @@ I've placed a demo under the inputs directory. All images to be processed will l
 
 The project directory gives us the name of the project as well as the dimensions of the final output via w + h prefixed numbers separated by underscores.
 
-myguy_w300_h500 meahs this project is named 'myguy' and we want the resulting image to be 300x500 pixels.
+myguy_w300_h500 means the project is named 'myguy' and we want the resulting image to be 300x500 pixels.
 
 Within the project directory, you'll see the component files. Component files are of the form name_version_x_y.png, where name is a thing to identify the component, version is the variant of it (we have two versions of the leg component here), and x+y are the coordinates where the component should be rendered.
 
