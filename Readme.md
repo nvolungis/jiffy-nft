@@ -8,7 +8,7 @@ run `npm install` within the jiffy-nft directory
 # Usage
 I've placed a demo under the inputs directory. All images to be processed will live in the inputs dir (for now at least). It's of the form 'inputs/project/files.png'.
 
-The project directory holds gives us the name of the project as well as the dimensions of the final output via w + h prefixed numbers separated by underscores.
+The project directory gives us the name of the project as well as the dimensions of the final output via w + h prefixed numbers separated by underscores.
 
 myguy_w300_h500 meahs this project is named 'myguy' and we want the resulting image to be 300x500 pixels.
 
